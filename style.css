@@ -619,6 +619,12 @@ main {
   background: rgba(56, 189, 248, 0.08);
 }
 
+.status.backend {
+  color: #cbd5e1;
+  border: 1px solid rgba(203, 213, 225, 0.35);
+  background: rgba(203, 213, 225, 0.07);
+}
+
 .status.em-breve {
   color: var(--suave);
   border: 1px solid var(--borda);
