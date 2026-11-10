@@ -660,6 +660,17 @@ main {
   color: var(--azul);
 }
 
+.projeto-links {
+  margin-top: auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+}
+
+.projeto-links .projeto-link {
+  margin-top: 0;
+}
+
 .projeto-link:hover {
   color: #7dd3fc;
 }
