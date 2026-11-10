@@ -625,6 +625,12 @@ main {
   background: rgba(203, 213, 225, 0.07);
 }
 
+.status.full-stack {
+  color: #4ade80;
+  border: 1px solid rgba(74, 222, 128, 0.35);
+  background: rgba(74, 222, 128, 0.07);
+}
+
 .status.em-breve {
   color: var(--suave);
   border: 1px solid var(--borda);
