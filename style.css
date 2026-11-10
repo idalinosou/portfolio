@@ -716,6 +716,15 @@ main {
   box-shadow: 0 0 12px var(--azul);
 }
 
+.marco.pausa::before {
+  background: #fbbf24;
+  border-color: #fbbf24;
+}
+
+.marco.pausa .marco-data {
+  color: #fbbf24;
+}
+
 .marco-data {
   font-size: 0.7rem;
   letter-spacing: 1.5px;
